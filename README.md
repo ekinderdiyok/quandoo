@@ -1,17 +1,17 @@
 # Quandoo Data Analyst Task
 Applicant: Ekin Derdiyok
 
-Contact: ekin.derdiyok@icloud.com
+**Contact:** ekin.derdiyok@icloud.com
 
-Tableau: https://public.tableau.com/app/profile/ekinderdiyok/vizzes
+**Tableau:** https://public.tableau.com/app/profile/ekinderdiyok/vizzes
 
-GitHub: https://github.com/ekinderdiyok
+**GitHub:** https://github.com/ekinderdiyok
 
-LinkedIn: https://www.linkedin.com/in/ekinderdiyok/
+**LinkedIn:** https://www.linkedin.com/in/ekinderdiyok/
 
-Date: 2025-03-14
+**Date:** 2025-03-14
 
-Description: This repo contains the `quandoo.sql` script and a [link to Tableau Public](https://public.tableau.com/app/profile/ekinderdiyok/vizzes) solving the **Quandoo Data Analyst Task**.
+**Description:** This repo contains the `quandoo.sql` script and a [link to Tableau Public](https://public.tableau.com/app/profile/ekinderdiyok/vizzes) solving the **Quandoo Data Analyst Task**.
 
 ## Repo Contents
 1. `quandoo.sql`: This is my SQL script
@@ -26,16 +26,14 @@ Description: This repo contains the `quandoo.sql` script and a [link to Tableau 
 5. Run data validation checks
 6. Answer Question 1
 7. Answer Question 2
-8. Create Tableau dashboard: https://public.tableau.com/app/profile/ekinderdiyok/vizzes
+8. Create a Tableau dashboard: https://public.tableau.com/app/profile/ekinderdiyok/vizzes
 
 ## Answers to Question 1 (Available in `quandoo.sql`)
-City: Singapore (based on total revenue and reservation count)
+**City:** Singapore (based on total revenue and reservation count)
 
-Country: Germany (based on total revenue and reservation count)
+**Country:** Germany (based on total revenue and reservation count)
 
-Campaign: Referral (based on total revenue and reservation count)
-
-Note: I assumed that cancelled and no-show reservations still generate revenue, though will most likely not change the ordering.
+**Campaign:** Referral (based on total revenue and reservation count)
 
 ## Answers to Question 2 (Available in Tableau)
 I suggest breaking down all metrics by countries and see no value in aggregating most B2B and marketing metrics across countries. Below are the most important metrics according to my analysis: 
