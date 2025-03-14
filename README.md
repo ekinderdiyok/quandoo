@@ -30,8 +30,11 @@ Description: This repo contains the `quandoo.sql` script and a [link to Tableau 
 
 ## Answers to Question 1 (Available in `quandoo.sql`)
 City: Singapore (based on total revenue and reservation count)
+
 Country: Germany (based on total revenue and reservation count)
+
 Campaign: Referral (based on total revenue and reservation count)
+
 Note: I assumed that cancelled and no-show reservations still generate revenue, though will most likely not change the ordering.
 
 ## Answers to Question 2 (Available in Tableau)
