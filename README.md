@@ -20,7 +20,7 @@ Applicant: Ekin Derdiyok
 
 ## Steps I took
 1. Create a local SQLite database
-2. Create a .SQL script: https://github.com/ekinderdiyok/quandoo/quandoo.sql
+2. Create the [`quandoo.sql` script](https://github.com/ekinderdiyok/quandoo/blob/main/quandoo.sql)
 3. Add the tables using CREATE TABLE
 4. Import .CSV files into tables
 5. Run data validation checks
