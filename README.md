@@ -1,10 +1,16 @@
 # Quandoo Data Analyst Task
 Applicant: Ekin Derdiyok
+
 Contact: ekin.derdiyok@icloud.com
+
 Tableau: https://public.tableau.com/app/profile/ekinderdiyok/vizzes
+
 GitHub: https://github.com/ekinderdiyok
+
 LinkedIn: https://www.linkedin.com/in/ekinderdiyok/
+
 Date: 2025-03-14
+
 Description: This repo contains the SQL file and Tableau Public link answering the Quandoo Data Analyst Task. Database (quandoo.db), data (.CSV files), and task brief(.PDF file) are not availabe in this repo. 
 
 ## Repo Contents
