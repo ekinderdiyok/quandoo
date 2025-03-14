@@ -18,14 +18,14 @@ Description: This repo contains the `quandoo.sql` script and a [link to Tableau 
 2. `README.md`: Document you are currently reading
 3. `quandoo.db`: A local SQLite database for querying. Is not available in this repo due to space constraints, but is available on demand. Send me an email if you need it.
 
-## Steps
+## Steps I took
 1. Create a local SQLite database
 2. Create a .SQL script: https://github.com/ekinderdiyok/quandoo/quandoo.sql
 3. Add the tables using CREATE TABLE
 4. Import .CSV files into tables
 5. Run data validation checks
-6. Answer to Question 1
-7. Answer to Question 2
+6. Answer Question 1
+7. Answer Question 2
 8. Create Tableau dashboard: https://public.tableau.com/app/profile/ekinderdiyok/vizzes
 
 ## Answers to Question 1 (Available in `quandoo.sql`)
